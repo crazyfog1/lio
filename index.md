@@ -34,5 +34,5 @@ Il est donc pur, sans bidouillage CSS par exemple.
 </div>
 
 <div class="encart">
-<p>et si je vous dit de cliquer ici :</p><a href="https//perdu.com">site rigolo</a>
+<p>et si je vous dit de cliquer ici :</p><a href="https://perdu.com">site rigolo</a>
 </div> 
