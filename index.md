@@ -18,4 +18,4 @@ Il est donc pur, sans bidouillage CSS par exemple.
 
 ## Me contacter
 
-<a href="/contact" class="bouton">Cliquez ici pour me contacter</a> 
+<a href="https://crazyfog1.github.io/lio/contact.html" class="bouton">Cliquez ici pour me contacter</a> 
