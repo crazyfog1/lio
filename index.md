@@ -24,4 +24,15 @@ Il est donc pur, sans bidouillage CSS par exemple.
 
 *ce titre est volontairement long pour tester le comportement du site*
 
-<p class="encart">Bon, par contre faut taper du code HTML quand même pour faire un bouton ou un encart, c'est dommage</p> 
+<p class="encart">Bon, par contre faut taper du code HTML quand même pour faire un bouton ou un encart, c'est dommage</p>
+
+## Tests variés et divers
+
+<div class="encart">
+<p>un encart avec plusieurs paragraphes</p>
+<p>c koul</p>
+</div>
+
+<div class="encart">
+<p>et si je vous dit de cliquer ici :</p><a href="https//perdu.com">site rigolo</a>
+</div> 
