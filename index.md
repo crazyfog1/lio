@@ -14,4 +14,8 @@ Bon, en tout cas, à **quoi sert ce site ?**
 
 Il est donc pur, sans bidouillage CSS par exemple.
 
-*Voilà.* 
+*Voilà.*
+
+## Me contacter
+
+<a href="/contact" class="bouton">Cliquez ici pour me contacter</a> 
