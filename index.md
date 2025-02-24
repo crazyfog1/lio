@@ -1,8 +1,10 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# Site de test
 
-# L'Échappée Belle
+Bonjour, ceci est mon site de test.
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+## Test de titre 
